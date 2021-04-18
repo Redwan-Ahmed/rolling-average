@@ -18,14 +18,17 @@
 <p align="center">
 <img src="https://github.com/Redwan-Ahmed/rolling-average/blob/main/Rolling%20Average%20Line%20Graph.png?raw=true" width="40%" />
 </p>
+
 * **Terminal Output - DataFrame.png** - this displays all the data in the CSV including a new column called "Rolling Average Value". (rolling_avg function)
 <p align="center">
 <img src="https://github.com/Redwan-Ahmed/rolling-average/blob/main/Terminal%20Output%20-%20DataFrame.png?raw=true" width="40%" />
 </p>
+
 * **Terminal Output - Max Value.png** - this displays the maximum value in the rolling average value. (calculate_rolling_average function)
 <p align="center">
 <img src="https://github.com/Redwan-Ahmed/rolling-average/blob/main/Terminal%20Output%20-%20Max%20Value.png?raw=true" width="40%" />
 </p>
+
 * **Terminal Output - Rolling Avg List.png** - this displays the data series of the rolling average value. (calculate_rolling_average function)
 <p align="center">
 <img src="https://github.com/Redwan-Ahmed/rolling-average/blob/main/Terminal%20Output%20-%20Rolling%20Avg%20List.png?raw=true" width="40%" />
